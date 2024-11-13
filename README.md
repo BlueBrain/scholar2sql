@@ -14,6 +14,7 @@ Scholar2Sql mimics human expert literature review, extracting key features from 
 </figcaption>
 </figure>
 </details>
+<br/><br/>
 
 0. [Concepts](#concepts)
 1. [Why this approach](#why-this-approach)
