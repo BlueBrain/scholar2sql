@@ -2,13 +2,18 @@ title: "Scholar2SQL Blog"
 description: "Scholar2SQL automates data extraction from papers into an SQL database."
 author: "Adrien Journé"
 email: "adrien.journe@protonmail.com"
-url: "https://scholar2sql.github.io"
+url: "https://bluebrain.github.io/scholar2sql/"
 
-theme: jekyll-theme-cayman
+# Theme settings
+theme: minima
 
+# Enable dark mode support
+minima:
+  skin: dark
+
+# Build settings
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 markdown: kramdown
 
