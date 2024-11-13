@@ -15,6 +15,13 @@ Scholar2Sql mimics human expert literature review, extracting key features from 
 </figure>
 </details>
 
+0. [Concepts](#concepts)
+1. [Why this approach](#why-this-approach)
+2. [Guide](#usage)
+3. [Configuration](#configuration)
+4. [Contributing](#contributing)
+4. [Funding and Acknowledgement](#funding-and-acknowledgement)
+
 ## Concepts
 
 ### 1- Large scientific database of <u>All Open Access articles</u>:
@@ -230,3 +237,9 @@ Provide examples to guide the LLM's behavior. Each example should include:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Funding and Acknowledgement
+
+The development of this software was supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government’s ETH Board of the Swiss Federal Institutes of Technology.
+
+Copyright (c) 2024 Blue Brain Project/EPFL

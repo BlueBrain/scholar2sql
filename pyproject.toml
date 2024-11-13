@@ -12,6 +12,7 @@ version = "0.0.1"
 readme = "README.md"
 dependencies = [
     "httpx",
+    "rich",
     "tenacity",
     "beautifulsoup4",
     "lxml",
@@ -24,7 +25,7 @@ dependencies = [
     "bm25s",
     "PyStemmer"
 ]
-requires-python = ">=3.7"
+requires-python = ">=3.9"
 
 [project.scripts]
 s2s_load_settings = "scholar2sql.scripts.load_settings:main"
