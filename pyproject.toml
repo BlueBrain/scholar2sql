@@ -7,7 +7,7 @@ name = "scholar2sql"
 authors = [
     {name = "Adrien Journe", email = "adrien.journe@protonmail.ch"}
 ]
-description = "package description"
+description = "Scholar2SQL automates data extraction from papers into an SQL database."
 version = "0.0.1"
 readme = "README.md"
 dependencies = [
