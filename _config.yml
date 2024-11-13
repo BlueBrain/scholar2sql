@@ -2,18 +2,11 @@ title: "Scholar2SQL Blog"
 description: "Scholar2SQL automates data extraction from papers into an SQL database."
 author: "Adrien Journé"
 email: "adrien.journe@protonmail.com"
-url: "https://bluebrain.github.io/scholar2sql/"
+url: "https://scholar2sql.github.io"
 
-# Theme settings
-theme: minima
-
-# Enable dark mode support
-minima:
-  skin: dark
-
-# Build settings
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 markdown: kramdown
 
